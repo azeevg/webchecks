@@ -1,0 +1,7 @@
+kafka-python==2.0.2
+requests~=2.28.2
+pre-commit
+black==22.10.0
+flake8
+htmlparser
+psycopg2~=2.9.5

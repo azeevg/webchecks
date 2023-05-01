@@ -1,0 +1,19 @@
+{
+  "timeout": 1000,
+  "period": 500,
+  "websites": [
+    {
+      "url": "https://google.com",
+      "timeout": 3000,
+      "pattern": "[sS]earch"
+    },
+    {
+      "url": "https://yahoo.com",
+      "timeout": 3000
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "pattern": "Welcome_to_Wikipedia"
+    }
+  ]
+}
